@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu GitHub! 🧑‍💻
 
-Olá, sou MazinDev, estudante de Análise e Desenvolvimento de Sistemas e sou desenvolvedor backend apaixonado por criar soluções robustas e eficientes. Tenho experiência em diversas tecnologias e frameworks. Estou comprometido em transformar ideias em sistemas funcionais e de alta performance.
+Olá, sou MazinDev, estudante de Análise e Desenvolvimento de Sistemas e sou desenvolvedor backend apaixonado por criar soluções eficientes. Tenho experiência em diversas tecnologias e frameworks. Estou determinado em transformar ideias em sistemas funcionais e de alta performance.
 
 ## Habilidades
 
