@@ -23,8 +23,3 @@ Olá, sou MazinDev, estudante de Análise e Desenvolvimento de Sistemas e sou de
 #### 💻 Sistemas Operacionais
 - Windows
 - Linux
-
-## Projetos
-
-- [**GitGuide**](https://gitguide.onrender.com/) - Um site que ajuda os usuários a usarem comandos Git.
-- [**CurrIA**](https://curr-ia.vercel.app/) - Um site que cria modelo de currículos com inteligência artificial.
