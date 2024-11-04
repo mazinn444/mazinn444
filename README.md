@@ -1,6 +1,6 @@
 # Olá, bem vindo ao meu GitHub! 🧑‍💻
 
-Olá, sou MazinDev, estudante de Análise e Desenvolvimento de Sistemas e sou desenvolvedor backend apaixonado por criar soluções eficientes. Tenho experiência em diversas tecnologias e frameworks. Estou determinado em transformar ideias em sistemas funcionais e de alta performance.
+Olá, sou MazinDev, estudante de Análise e Desenvolvimento de Sistemas e sou desenvolvedor backend. Tenho experiência em diversas tecnologias e frameworks.
 
 ## Habilidades
 
@@ -16,9 +16,8 @@ Olá, sou MazinDev, estudante de Análise e Desenvolvimento de Sistemas e sou de
 #### 🧑‍💻 Linguagens de programação
 - Python
 - Java
-- C++
+- C++ e C
 - Javascript
-- SQLite
 
 #### 💻 Sistemas Operacionais
 - Windows
