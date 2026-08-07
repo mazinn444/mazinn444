@@ -3,7 +3,7 @@
 # Olá, eu sou o Matheus Dev!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=5000&pause=1000&color=white&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+JavaScript;Backend+Developer;Desenvolvedor+Linux;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=512&color=white&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+JavaScript;Backend+Developer;Desenvolvedor+Linux;" />
 </a>
 
 <br>
