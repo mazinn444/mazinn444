@@ -32,7 +32,7 @@ Opa, eai! Sou o **Matheus Nascimento**, **desenvolvedor backend** desde **2023**
 
 # Repositórios em destaque
 
-> Por enquanto eu tenho um único projeto grande. Prefiro ter menos de 3 projetos bons do que ter mias de 3 ruins!
+> Por enquanto eu tenho um único projeto grande. Prefiro ter menos de 3 projetos bons do que ter mais de 3 ruins!
 
 1. ### [MoonGUI](https://github.com/mazinn444/MoonGUI)
    - É basicamente um framework Java que atua como um "compilador" para Lua para que tal linguagem consiga ter suporte a desenvolvimento UI de forma simples. O projeto ainda está em desenvolvimento e pode conter bugs!
