@@ -21,12 +21,21 @@ Opa, eai! Sou o **Matheus Nascimento**, **desenvolvedor backend** desde **2023**
 ---
 
 ## Tecnologias que uso
+<div align="center">
 
-<p align="center">
+### Linguagens
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,nodejs,git,github,linux,vscode,flask,cs&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cs,lua&perline=10"/>
 
-</p>
+### Frameworks e Banco de Dados
+
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,postgres,sqlite&perline=10"/>
+
+### Ferramentas
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,postman,maven&perline=10"/>
+
+</div>
 
 ---
 
