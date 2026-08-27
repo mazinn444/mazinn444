@@ -1,18 +1,10 @@
 <div align="center">
 
-# Olá, eu sou o Matheus Dev!
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=512&color=white&center=true&vCenter=true&width=700&lines=Python+%7C+Java+%7C+JavaScript;Backend+Developer;Desenvolvedor+Linux;" />
-</a>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="500">
-
+# Matheus Nascimento
+### Desenvolvedor Backend
 </div>
 
----
+<br>
 
 ## Sobre mim
 
@@ -29,11 +21,11 @@ Opa, eai! Sou o **Matheus Nascimento**, **desenvolvedor backend** desde **2023**
 
 ### Frameworks e Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,postgres,sqlite&perline=10"/>
+<img src="https://skillicons.dev/icons?i=nodejs,flask,mysql,postgres,sqlite,qt&perline=10"/>
 
 ### Ferramentas
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,postman,maven&perline=10"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,arch,vscode,postman,maven,gradle&perline=10"/>
 
 </div>
 
